@@ -1,0 +1,10 @@
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\bin\Debug\Random App.exe
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\bin\Debug\Random App.pdb
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random_App.Form1.resources
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random_App.Properties.Resources.resources
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random App.csproj.GenerateResource.Cache
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random App.exe
+c:\users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random App.pdb
+C:\Users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random App.csprojResolveAssemblyReference.cache
+C:\Users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\mcc\documents\visual studio 2010\Projects\Random App\Random App\obj\x86\Debug\Random App.csproj.ResolveComReference.cache
